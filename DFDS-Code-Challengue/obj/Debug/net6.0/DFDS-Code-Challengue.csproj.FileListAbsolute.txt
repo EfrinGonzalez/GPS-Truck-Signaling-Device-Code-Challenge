@@ -1,0 +1,15 @@
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\bin\Debug\net6.0\DFDS-Code-Challengue.exe
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\bin\Debug\net6.0\DFDS-Code-Challengue.deps.json
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\bin\Debug\net6.0\DFDS-Code-Challengue.runtimeconfig.json
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\bin\Debug\net6.0\DFDS-Code-Challengue.dll
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\bin\Debug\net6.0\DFDS-Code-Challengue.pdb
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\obj\Debug\net6.0\DFDS-Code-Challengue.csproj.AssemblyReference.cache
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\obj\Debug\net6.0\DFDS-Code-Challengue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\obj\Debug\net6.0\DFDS-Code-Challengue.AssemblyInfoInputs.cache
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\obj\Debug\net6.0\DFDS-Code-Challengue.AssemblyInfo.cs
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\obj\Debug\net6.0\DFDS-Code-Challengue.csproj.CoreCompileInputs.cache
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\obj\Debug\net6.0\DFDS-Code-Challengue.dll
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\obj\Debug\net6.0\refint\DFDS-Code-Challengue.dll
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\obj\Debug\net6.0\DFDS-Code-Challengue.pdb
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\obj\Debug\net6.0\DFDS-Code-Challengue.genruntimeconfig.cache
+C:\Users\efrin\OneDrive\Documents\GitHub\dfds-code-challenge\DFDS-Code-Challengue\obj\Debug\net6.0\ref\DFDS-Code-Challengue.dll
